@@ -6,7 +6,7 @@ namespace ♂Gym♂
   {
     
     private int ♂bucks♂ = 300;
-    public in ♂fucking_slaves♂;
+    public int ♂fucking_slaves♂;
     
     public void ♂Fisting♂(♂bucks♂)
     {
