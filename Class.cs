@@ -12,7 +12,7 @@ namespace ♂Gym♂
     {
       if (♂fucking_slaves♂ > 0)
       {
-        ♂bucks♂ += 300;
+        ♂bucks♂ += 300*♂fucking_slaves♂;
       }
       else
       {
