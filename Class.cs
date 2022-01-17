@@ -8,7 +8,7 @@ namespace ♂Gym♂
     private int ♂bucks♂ = 300;
     public int ♂fucking_slaves♂;
     
-    public void ♂Fisting♂(♂bucks♂)
+    public void ♂Fisting♂(♂fucking_slaves♂)
     {
       if (♂fucking_slaves♂ > 0)
       {
@@ -23,3 +23,6 @@ namespace ♂Gym♂
     
   }
 }
+
+♂Fisting♂(1)
+Console.WriteLine(♂bucks♂);
